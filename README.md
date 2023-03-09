@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🛑 Hello, my real name can be found in some commit, good luck
+🛑 Hello,
 
-⚡ And yes, I like anime
+⚡ Yes, I like anime
 
 <!--
 # ❤ Most used languages
