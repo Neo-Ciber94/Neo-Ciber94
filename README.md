@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🛑 Hello,
+🛑 Hello, this is my canvas
 
 ⚡ Yes, I like anime
 
